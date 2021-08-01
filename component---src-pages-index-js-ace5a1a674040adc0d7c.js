@@ -1,0 +1,2 @@
+(self.webpackChunkcommunity_improvement_service=self.webpackChunkcommunity_improvement_service||[]).push([[678],{7704:function(e,t,n){"use strict";n.r(t);var m=n(7294),c=n(6862),r=n(3751);t.default=function(){return m.createElement(c.Z,{page:"home"},m.createElement(r.Z,{title:"Home"}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ace5a1a674040adc0d7c.js.map

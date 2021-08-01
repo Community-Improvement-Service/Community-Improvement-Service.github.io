@@ -1,0 +1,2 @@
+(self.webpackChunkcommunity_improvement_service=self.webpackChunkcommunity_improvement_service||[]).push([[323],{1979:function(e,t,n){"use strict";n.r(t);var r=n(7294),u=n(6862),c=n(3751);t.default=function(){return r.createElement(u.Z,{page:"volunteer"},r.createElement(c.Z,{title:"Volunteer"}))}}}]);
+//# sourceMappingURL=component---src-pages-get-involved-volunteer-js-83771b3f99d4996d60a2.js.map

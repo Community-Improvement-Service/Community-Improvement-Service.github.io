@@ -1,0 +1,2 @@
+(self.webpackChunkcommunity_improvement_service=self.webpackChunkcommunity_improvement_service||[]).push([[154],{3567:function(e,t,n){"use strict";n.r(t);var c=n(7294),r=n(6862),i=n(3751);t.default=function(){return c.createElement(r.Z,{page:"donate"},c.createElement(i.Z,{title:"Donate"}))}}}]);
+//# sourceMappingURL=component---src-pages-get-involved-donate-js-75d32f509c56c4338116.js.map

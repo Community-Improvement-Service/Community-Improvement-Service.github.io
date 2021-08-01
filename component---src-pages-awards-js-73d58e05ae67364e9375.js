@@ -1,0 +1,2 @@
+(self.webpackChunkcommunity_improvement_service=self.webpackChunkcommunity_improvement_service||[]).push([[350],{8295:function(e,t,n){"use strict";n.r(t);var r=n(7294),c=n(6862),a=n(3751);t.default=function(){return r.createElement(c.Z,{page:"awards"},r.createElement(a.Z,{title:"Awards"}))}}}]);
+//# sourceMappingURL=component---src-pages-awards-js-73d58e05ae67364e9375.js.map

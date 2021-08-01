@@ -1,0 +1,2 @@
+(self.webpackChunkcommunity_improvement_service=self.webpackChunkcommunity_improvement_service||[]).push([[356],{2760:function(e,t,r){"use strict";r.r(t);var c=r(7294),n=r(6862),i=r(3751);t.default=function(){return c.createElement(n.Z,{page:"our_services"},c.createElement(i.Z,{title:"Our Services"}))}}}]);
+//# sourceMappingURL=component---src-pages-our-services-js-8ac97f7479e3b8c68f37.js.map
